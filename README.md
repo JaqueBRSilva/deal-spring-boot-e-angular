@@ -11,7 +11,7 @@
 </h1>
 
 <p align="center">
-    Repositório para organizar os <strong>Desafios de Projeto</strong> feitos durante <a src="https://web.dio.me/track/coding-the-future-spring-boot-angular-17" target="blank">Bootcamp da DIO</a>.
+    Repositório para organizar os <strong>Desafios de Projeto</strong> feitos durante <a src="https://web.dio.me/track/coding-the-future-spring-boot-angular-17" target="_blank">Bootcamp da DIO</a>.
 </p>
 
 <br />
@@ -20,7 +20,7 @@
 
 <ul style="list-style-type:circle">
     <li>
-        <a href="./criando-um-container-de-uma-aplicacao-web" target="blank">
+        <a href="./criando-um-container-de-uma-aplicacao-web" target="_blank">
             Criando um Container de uma Aplicação WEB
         </a>
     </li>
@@ -37,7 +37,7 @@
 
 <ul style="list-style-type:square">
     <li>
-        <a href="https://www.docker.com/" target="blank">
+        <a href="https://www.docker.com/" target="_blank">
             Docker
         </a>
     </li>
